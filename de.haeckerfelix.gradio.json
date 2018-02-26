@@ -41,14 +41,13 @@
          ]
       },
       {
-         "name":"gradio",
-         "buildsystem":"meson",
-         "builddir":true,
+         "name": "gradio",
+         "buildsystem": "meson",
          "sources":[
             {
-               "type":"archive",
-               "url":"https://github.com/haecker-felix/gradio/archive/v7.1.tar.gz",
-               "sha256":"b223b371bfc82831fcbf3699bb4bfa7288438d02e9351b707b1f32db7ea5f7e3"
+               "type": "archive",
+               "url": "https://github.com/haecker-felix/gradio/archive/v7.1.tar.gz",
+               "sha256": "7b350583124f00f9030daaf4042cd54c9d340d67124dad298266d2dfa81ba766"
             }
          ]
       }
