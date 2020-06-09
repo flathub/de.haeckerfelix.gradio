@@ -1,0 +1,4 @@
+{
+  "end-of-life": "The successor of Gradio is Shortwave. Gradio will not be further developed. The Gradio API servers will no longer be available as of August 2020. Until August 2020 it will still be possible to import Gradio databases into Shortwave.",
+  "end-of-life-rebase": "de.haeckerfelix.Shortwave"
+}
